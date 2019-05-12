@@ -19,7 +19,9 @@ body {}
 
 }
 
-header {}
+header {
+   background-color: #eee;
+}
 
 header div {
    margin: 2.5%;
